@@ -1,2 +1,2 @@
-# class28
-how to constraint a bird to a point......
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
